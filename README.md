@@ -14,7 +14,7 @@ The dataset used for this project is `charity_data.csv`, which contains informat
 
 - `charity_data.csv`: The dataset containing charity donation application information.
 - `Starter_Code.ipynb`: Jupyter Notebook containing the data preprocessing, model building, training, and evaluation steps.
-- `AlphabetSoupCharity.keras`: The trained model saved in leras format.
+- `AlphabetSoupCharity.h5`: The trained model saved in leras format.
 
 ## Installation
 
@@ -22,5 +22,4 @@ To run this project, you need to have Python and the required libraries installe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/charity-donation-predictor.git
-   cd charity-donation-predictor
+   git clone https://github.com/RafiPratomo/deep-learning-challenge.git
